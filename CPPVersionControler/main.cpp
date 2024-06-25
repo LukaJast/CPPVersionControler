@@ -10,6 +10,6 @@ void GoodBye()
 }
 int main()
 {
-	greet();
+	//greet();
 	GoodBye();
 }
